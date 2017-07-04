@@ -1,3 +1,5 @@
+![Image](cloud.jpg)
+
 ## Core ML & Augmented Reality
 
 Annunciato al WWDC17 la disponibilità dei kit di sviluppo di Apple per le funzionalità di Machine Learning e Augmented Reality per dispositivi IOS 11.
