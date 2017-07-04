@@ -1,10 +1,16 @@
-## Welcome to Core-ML-Augmented-Reality
+## Core ML & Augmented Reality
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Annunciato al WWDC17 la disponibilità dei kit di sviluppo di Apple per le funzionalità di Machine Learning e Augmented Reality per dispositivi IOS 11.
+Si confermano quindi l'Intelligenza Artificiale e la Realtà Aumentata, gli argomenti trainanti nel prossimo futuro.
+Le funzionalità di ML non avranno bisogno di connessione internet e potranno elaborare le informazioni direttamente sul dispositivo. I modelli supportati di ML potranno essere importati direttamente dai principali framework come Caffe, Keras, scikit-learn, XGBoost e LibSVM.
+Tra le funzionalità di machine learning troviamo: face tracking, face detection, text detection, etc, oltre alle funzionalità di Natural Language Processing. Per approfondimenti su Core ML:
 
-### Core-ML-Augmented-Reality
+[Build more intelligent apps with machine learning](https://developer.apple.com/machine-learning/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Il framework di Augmented Reality permette invece di analizzare l'ambiente circostante grazie alle funzioni di Visual Inertial Odometry (VIO) in grado di riconoscere le superfici e le fonti di luce, per permettere il collocamento di oggetti virtuali con la giusta ombreggiatura nella scena visualizzata. Queste funzionalità però saranno solo disponibili per tutti i dispositivi con processore A9 o successivi. Per ulteriori approfondimenti su ARKit:
+
+[Introducing ARKitLink](https://developer.apple.com/arkit/)
+
 
 ```markdown
 Syntax highlighted code block
@@ -14,11 +20,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://www.google.com) and ![Image](src)
+ ![Image](src)
 ```
 
 [Google](http://www.google.com)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
